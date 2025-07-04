@@ -1,90 +1,13 @@
-<!-- Banner -->
-<img src="https://i.imgur.com/zBzQZgV.png" alt="Data Analyst Banner" width="100%"/>
+<h1 align="center">Hi 👋, I'm Ravina</h1>
+<h3 align="center">## 🧭 About Me I'm not just someone who works with data — I'm someone who thinks in data. Hi, I'm [Your Name] — a curious, impact-driven analyst who bridges the gap between raw data and real-world decisions. Whether it’s analyzing customer behavior, forecasting trends, or building automated dashboards, I love turning messy datasets into stories that drive action. 🔍 **My superpower?** Asking the right questions before writing the first line of code. 📊 With a strong foundation in **SQL, Python, Power BI, Tableau, and Excel**, I specialize in translating business problems into analytical frameworks. I don't just crunch numbers — I uncover patterns, challenge assumptions, and communicate insights that actually get implemented. 💡 I’ve worked on: - Churn analysis that helped improve customer retention - Forecasting models that saved teams time and budget - Business dashboards that made executives say “why didn’t we have this earlier?” 🚀 I’m passionate about learning, experimenting, and collaborating — whether it’s with product managers, engineers, or stakeholders. If there’s data, I’ll make sense of it. If there’s ambiguity, I’ll clarify it. If there’s a better way, I’ll find it. Currently exploring: - Data engineering workflows (ETL, dbt, pipelines) - Advanced visual storytelling with Power BI & Tableau - NLP & ML for smarter business automation If you’re looking for someone who brings **both strategic thinking and hands-on execution** to the table — let’s connect.</h3>
 
-<!-- Centered Title -->
-<h1 align="center">Hi there, I'm Ravina 👋</h1>
-
-<p align="center">
-  🔍 Data-Driven Problem Solver • 📊 Business Intelligence Enthusiast • 📈 Insights Storyteller <br>
-  <strong>Turning raw data into real-world decisions</strong>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ravina patidar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ravina patidar" height="30" width="40" /></a>
+<a href="https://kaggle.com/ravina patidar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ravina patidar" height="30" width="40" /></a>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/yourlinkedin/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Send_Email-green?logo=gmail"></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-View-ff69b4?logo=firefox-browser"></a>
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
----
-
-## 🧭 About Me
-
-Hey! I'm [Your Name], a data and business analyst with a passion for **making sense of chaos using data**. With a strong background in **Excel, SQL, Python, Power BI, and Tableau**, I’ve helped turn raw data into clear, actionable insights for smarter decisions.
-
-- 🧠 Background in [Your Degree or Domain]
-- 💼 Experience working on business challenges like:
-  - Reducing churn using cohort analysis
-  - Optimizing inventory through ABC segmentation
-  - Forecasting sales using time-series models
-- 🗣️ Love presenting insights in a compelling narrative backed by visuals
-
-I believe great analysis doesn’t just answer **what**—it explains **why**, and shows **how** to act on it.
-
----
-
-## 🛠️ Tools & Skills
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-Used_for_EDA_and_Modeling-yellow?logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-PostgreSQL_&_MySQL-blue?logo=postgresql"/>
-  <img src="https://img.shields.io/badge/Tableau-Dashboards_and_Storytelling-purple?logo=tableau"/>
-  <img src="https://img.shields.io/badge/Power_BI-Reports_with_DAX-orange?logo=powerbi"/>
-  <img src="https://img.shields.io/badge/Excel-Formulas_&_PivotTables-green?logo=microsoft-excel"/>
-  <img src="https://img.shields.io/badge/EDA-Cleaning,_Visuals,_Correlation-lightgrey?logo=pandas"/>
-</p>
-
----
-
-## 🚀 Featured Projects
-
-Here are some of my proudest pieces of work:
-
-### 📦 [Customer Churn Dashboard (Power BI)](https://github.com/yourusername/powerbi-churn-analysis)
-![powerbi-preview](https://i.imgur.com/kphCZ6R.png)
-> Used DAX & Power BI to identify key churn factors and improve retention strategy for a telecom client. Built dynamic dashboards with slicers and cohort analysis.
-
----
-
-### 🏪 [Sales Forecasting with Python & Time Series](https://github.com/yourusername/sales-forecasting-ts)
-![python-ts-preview](https://i.imgur.com/oSByWla.png)
-> Modeled seasonal patterns and future sales using ARIMA & Prophet. Shared actionable recommendations that led to smarter inventory decisions.
-
----
-
-### 🧼 [SQL Data Cleaning & Transformation](https://github.com/yourusername/sql-data-cleaning)
-> Showcase of real-world messy datasets turned into analysis-ready tables using CTEs, CASE, and window functions. Built for interview-style challenges.
-
----
-
-## 📈 What I’m Learning Now
-
-I'm currently diving deeper into:
-- Advanced Power BI (Row-level security, DAX optimization)
-- Python Dashboards with Plotly Dash
-- Business storytelling with data
-
----
-
-## 🧩 Let’s Connect & Collaborate
-
-If you're a hiring manager, recruiter, or fellow analyst — I'd love to hear from you!
-
-📬 **[your.email@example.com](mailto:your.email@example.com)**  
-🔗 **[LinkedIn Profile](https://linkedin.com/in/yourusername)**  
-🌐 **[Portfolio Website](https://yourportfolio.com)**
-
----
-
-<p align="center">
-  <i>Let’s turn data into decisions.</i> 🚀
-</p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravina172&show_icons=true&locale=en&layout=compact" alt="ravina172" /></p>
