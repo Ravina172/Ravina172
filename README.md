@@ -1,45 +1,49 @@
-# 👋 Hi there, I'm Ravina
+# 👋 Hi, I'm Ravina
 
 > _"Without data, you're just another person with an opinion."_ — **W. Edwards Deming**
 
 My name is **Ravina Patidar**, and I'm a passionate data enthusiast with hands-on skills in data analysis, data visualization, databases, and AI tools. I'm on a mission to break into the data industry and make a real impact through insights, storytelling, and smart decision-making.
 
----
 
-## 🔗 CONNECT
+## 🤝 Connect
 
-I'm always up for connecting with fellow data lovers, mentors, and potential collaborators!  
-You can find me here:
+I'm always up for connecting with fellow data lovers, mentors, and potential collaborators! 
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ravina-patidar-474a9b255/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-    </a>
+  
   <a href="https://yourportfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-157A6E?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-FF6F61?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portfolio"/>
   </a>
+  
   <a href="https://github.com/ravina172" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-6e6e6e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+  
   <a href="https://www.kaggle.com/ravinapatidar" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-004D99?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+    <img src="https://img.shields.io/badge/Kaggle-89CFF0?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+  </a>
+
+  <a href="mailto:ravinapatidar13634@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-8BC34A?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
 
----
-
-## 🎓 PROJECTS
-
 Here’s a collection of data projects and self-taught learning that I've worked on to sharpen my skills:
 
-✅ **SQL Data Warehouse Project** — [GitHub Repo](https://github.com/Ravina172/sql-data-warehouse-project)  
-✅ **Netflix TV Shows & Movies Data Analysis** — [GitHub Repo](https://github.com/Ravina172/Netflix_TV_Shows-Movies_data_analysis)  
-✅ **Loan Risk & Performance Monitoring Dashboard** — [GitHub Repo](https://github.com/Ravina172/Loan-Risk-and-Performance-Monitoring-System)  
-✅ **End-to-End Sales Data Analysis in SQL** — [GitHub Repo](https://github.com/Ravina172/End-to-End-Sql-Data-Analysis-Sales)
+- ✅ **SQL Data Warehouse Project** — [GitHub Repo](https://github.com/Ravina172/sql-data-warehouse-project)
+  
+- ✅ **Netflix TV Shows & Movies Data Analysis** — [GitHub Repo](https://github.com/Ravina172/Netflix_TV_Shows-Movies_data_analysis)
+  
+- ✅ **Loan Risk & Performance Monitoring Dashboard** — [GitHub Repo](https://github.com/Ravina172/Loan-Risk-and-Performance-Monitoring-System)
+  
+- ✅ **End-to-End Sales Data Analysis in SQL** — [GitHub Repo](https://github.com/Ravina172/End-to-End-Sql-Data-Analysis-Sales)
 
----
-## 💡 SKILLS
+
+
+## 💡Skills
 
 <table align="center">
   <tr>
@@ -69,35 +73,11 @@ Here’s a collection of data projects and self-taught learning that I've worked
   </tr>
 </table>
 
----
 
-## 🔍 I’m Currently Working On
 
-- 📊 Recreating real-world dashboards with Power BI and Tableau  
-- 🧼 Practicing data cleaning on Kaggle datasets  
-- 🤖 Exploring ChatGPT and LangChain for data task automation  
-- 📚 Studying for certifications like **Google Data Analytics** and **Microsoft PL-300**
+## 📜 Certifications
 
----
-
-## 🎯 MY MISSION
-
-To land my first role in data and grow into a well-rounded data analyst or data scientist. I'm passionate about simplifying complexity, solving real-world problems, and telling impactful stories through data.
-
----
-<!--## 📄 **[Download My Resume](#)**   🌐 **[Visit My Portfolio](https://yourportfolio.com)** -->
----
-
-## 🤝 CONNECT OR COLLABORATE
-- Looking for feedback on my data projects  
-- Open to entry-level roles, internships, or freelance work  
-- Always excited to network and learn from other professionals in the field
-
----
-
-## 📜 CERTIFICATIONS
-
-- 🎓 Google Data Analytics Certificate  
-- 🎓 Microsoft Power BI Desktop Specialist  
+- 🎓 Google Data Analytics Certificate
+    
 - 🎓 Data Science, NLP, ML & Deep Learning — *Udemy Certified*
 
