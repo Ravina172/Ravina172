@@ -1,19 +1,107 @@
-<h1 align="center">Hi 👋, I'm Ravina Patidar</h1>
-<h3 align="center">A Data Enthusiast</h3>
+# 👋 Hi there, I'm Ravina
 
-<image align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/a0/f8/5c/a0f85c35e406acb5b84c13dae888d5a3.gif">
+> _"Without data, you're just another person with an opinion."_ — **W. Edwards Deming**
 
-<h3 align="left">Connect with me:</h3>
+My name is **Ravina Patidar**, and I'm a passionate data enthusiast with hands-on skills in data analysis, data visualization, databases, and AI tools. I'm on a mission to break into the data industry and make a real impact through insights, storytelling, and smart decision-making.
+
+---
+
+## 🔗 Connect with me
+
+I'm always up for connecting with fellow data lovers, mentors, and potential collaborators!  
+You can find me here:
+
 <p align="left">
-<a href="https://linkedin.com/in/ravina patidar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ravina patidar" height="30" width="40" /></a>
-<a href="https://kaggle.com/ravina patidar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ravina patidar" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/ravina-patidar-474a9b255/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+    </a>
+  <a href="https://yourportfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-157A6E?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://github.com/ravina172" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.kaggle.com/ravinapatidar" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-004D99?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravina172&show_icons=true&locale=en&layout=compact" alt="ravina172" /></p>
+## 🎓 Projects
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ravina172&show_icons=true&locale=en" alt="ravina172" /></p>
+Here’s a collection of data projects and self-taught learning that I've worked on to sharpen my skills:
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravina172&" alt="ravina172" /></p>
+✅ **SQL Data Warehouse Project** — [GitHub Repo](https://github.com/Ravina172/sql-data-warehouse-project)  
+✅ **Netflix TV Shows & Movies Data Analysis** — [GitHub Repo](https://github.com/Ravina172/Netflix_TV_Shows-Movies_data_analysis)  
+✅ **Loan Risk & Performance Monitoring Dashboard** — [GitHub Repo](https://github.com/Ravina172/Loan-Risk-and-Performance-Monitoring-System)  
+✅ **End-to-End Sales Data Analysis in SQL** — [GitHub Repo](https://github.com/Ravina172/End-to-End-Sql-Data-Analysis-Sales)
+
+---
+## 💡 My Skills
+
+<table align="center">
+  <tr>
+    <!-- Languages -->
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/><br>Python</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30"/><br>MySQL</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30"/><br>PostgreSQL</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="30"/><br>Pandas</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="30"/><br>NumPy</td>
+    <td align="center"><img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="30"/><br>Excel</td>
+    <td align="center"><img src="https://seeklogo.com/images/T/tensorflow-logo-02FCED4C58-seeklogo.com.png" width="30"/><br>TensorFlow</td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="30"/><br>Scikit-learn</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.icons8.com/color/48/power-bi.png" width="30"/><br>Power BI</td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width="30"/><br>Tableau</td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="30"/><br>Matplotlib</td>
+    <td align="center"><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="60"/><br>Seaborn</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="30"/><br>Jupyter</td>
+    <td align="center"><img src="https://img.icons8.com/color/48/google-colab.png" width="30"/><br>Colab</td>
+    <td align="center"><img src="https://img.icons8.com/color/48/amazon-web-services.png" width="30"/><br>AWS</td>
+    <td align="center"><img src="https://img.icons8.com/color/48/google-cloud.png" width="30"/><br>GCP</td>
+  </tr>
+</table>
+
+---
+
+## 🔍 What I’m Currently Working On
+
+- 📊 Recreating real-world dashboards with Power BI and Tableau  
+- 🧼 Practicing data cleaning on Kaggle datasets  
+- 🤖 Exploring ChatGPT and LangChain for data task automation  
+- 📚 Studying for certifications like **Google Data Analytics** and **Microsoft PL-300**
+
+---
+
+## 🎯 My Mission
+
+To land my first role in data and grow into a well-rounded data analyst or data scientist. I'm passionate about simplifying complexity, solving real-world problems, and telling impactful stories through data.
+
+---
+
+## 📄 **[Download My Resume](#)**  
+<!--🌐 **[Visit My Portfolio](https://yourportfolio.com)** -->
+
+---
+
+## 🤝 Let’s Connect or Collaborate
+
+- Looking for feedback on my data projects  
+- Open to entry-level roles, internships, or freelance work  
+- Always excited to network and learn from other professionals in the field
+
+---
+
+### 📜 Certifications in Progress
+
+- 🎓 Google Data Analytics Certificate  
+- 🎓 Microsoft Power BI Desktop Specialist  
+- 🎓 Data Science, NLP, ML & Deep Learning — *Udemy Certified*
+
