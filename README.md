@@ -6,7 +6,7 @@ My name is **Ravina Patidar**, and I'm a passionate data enthusiast with hands-o
 
 ---
 
-## 🔗 Connect with me
+## 🔗 CONNECT
 
 I'm always up for connecting with fellow data lovers, mentors, and potential collaborators!  
 You can find me here:
@@ -29,7 +29,7 @@ You can find me here:
 
 ---
 
-## 🎓 Projects
+## 🎓 PROJECTS
 
 Here’s a collection of data projects and self-taught learning that I've worked on to sharpen my skills:
 
@@ -39,7 +39,7 @@ Here’s a collection of data projects and self-taught learning that I've worked
 ✅ **End-to-End Sales Data Analysis in SQL** — [GitHub Repo](https://github.com/Ravina172/End-to-End-Sql-Data-Analysis-Sales)
 
 ---
-## 💡 My Skills
+## 💡 SKILLS
 
 <table align="center">
   <tr>
@@ -71,7 +71,7 @@ Here’s a collection of data projects and self-taught learning that I've worked
 
 ---
 
-## 🔍 What I’m Currently Working On
+## 🔍 I’m Currently Working On
 
 - 📊 Recreating real-world dashboards with Power BI and Tableau  
 - 🧼 Practicing data cleaning on Kaggle datasets  
@@ -80,26 +80,22 @@ Here’s a collection of data projects and self-taught learning that I've worked
 
 ---
 
-## 🎯 My Mission
+## 🎯 MY MISSION
 
 To land my first role in data and grow into a well-rounded data analyst or data scientist. I'm passionate about simplifying complexity, solving real-world problems, and telling impactful stories through data.
 
 ---
-
-## 📄 **[Download My Resume](#)**  
-<!--🌐 **[Visit My Portfolio](https://yourportfolio.com)** -->
-
+<!--## 📄 **[Download My Resume](#)**   🌐 **[Visit My Portfolio](https://yourportfolio.com)** -->
 ---
 
-## 🤝 Let’s Connect or Collaborate
-
+## 🤝 CONNECT OR COLLABORATE
 - Looking for feedback on my data projects  
 - Open to entry-level roles, internships, or freelance work  
 - Always excited to network and learn from other professionals in the field
 
 ---
 
-### 📜 Certifications in Progress
+## 📜 CERTIFICATIONS
 
 - 🎓 Google Data Analytics Certificate  
 - 🎓 Microsoft Power BI Desktop Specialist  
