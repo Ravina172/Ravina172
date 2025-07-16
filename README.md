@@ -14,7 +14,7 @@ I'm always up for connecting with fellow data lovers, mentors, and potential col
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   
-  <a href="https://yourportfolio.com" target="_blank">
+  <a href=" https://ravina172.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF6F61?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portfolio"/>
   </a>
   
