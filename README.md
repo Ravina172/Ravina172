@@ -40,7 +40,7 @@ Here’s a collection of data projects and self-taught learning that I've worked
 - ✅ **Loan Risk & Performance Monitoring Dashboard** — [GitHub Repo](https://github.com/Ravina172/Loan-Risk-and-Performance-Monitoring-System)
 
 - ✅ **End-to-End Sales Data Analysis in SQL** — [GitHub Repo](https://github.com/Ravina172/End-to-End-Sql-Data-Analysis-Sales)
-- 
+  
 - ✅ **SQL Data Warehouse Project** — [GitHub Repo](https://github.com/Ravina172/sql-data-warehouse-project)
 
 
