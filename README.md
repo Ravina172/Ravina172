@@ -32,14 +32,16 @@ I'm always up for connecting with fellow data lovers, mentors, and potential col
 </p>
 
 Here’s a collection of data projects and self-taught learning that I've worked on to sharpen my skills:
-
-- ✅ **SQL Data Warehouse Project** — [GitHub Repo](https://github.com/Ravina172/sql-data-warehouse-project)
   
 - ✅ **Netflix TV Shows & Movies Data Analysis** — [GitHub Repo](https://github.com/Ravina172/Netflix_TV_Shows-Movies_data_analysis)
   
+- ✅ **CommerceOps: Sales,Retention & Monetization Insights** — [GitHub Repo](https://github.com/Ravina172/CommerceOps360-Sales-Retention-Monetization-Insights)
+
 - ✅ **Loan Risk & Performance Monitoring Dashboard** — [GitHub Repo](https://github.com/Ravina172/Loan-Risk-and-Performance-Monitoring-System)
-  
+
 - ✅ **End-to-End Sales Data Analysis in SQL** — [GitHub Repo](https://github.com/Ravina172/End-to-End-Sql-Data-Analysis-Sales)
+- 
+- ✅ **SQL Data Warehouse Project** — [GitHub Repo](https://github.com/Ravina172/sql-data-warehouse-project)
 
 
 
